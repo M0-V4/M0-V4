@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 
-| <b>JAVA</b> | | | | | |
+| <b>JAVA</b> | <b>PYTHON</b> | <b>GIT</b> | <b>GITHUB</b> | <b>MySQL</b> | <b>LINUX</b> |
 |---|---|---|---|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/> |
 
