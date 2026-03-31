@@ -2,10 +2,9 @@
 
 ### Back-end Developer · DAM Student
 
-- 🌍 Based in Spain
+- 🌍 Language: Spanish native, and English medium B2
 - 🎓 Currently studying Cross-Platform Application Development (DAM) · 2024–2026
 - 💻 Focused on Back-end development
-- 🧠 Always learning and improving my code
 
 ---
 
