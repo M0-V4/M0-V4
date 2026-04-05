@@ -16,7 +16,7 @@
 
 ## 📊 Stats
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wNuduMpBvJ/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/wNuduMpBvJ?theme=dark&font=baloo_2&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=dark&font=baloo_2&ext=heatmap)
 
 ---
 ## 📫 Contact
