@@ -69,7 +69,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="center">
-  <sub>© 2024-2026 Miguel Ángel Guardia</sub>
-</p>
