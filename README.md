@@ -19,9 +19,7 @@
 | 🎓 **Education** | Cross-Platform App Development (DAM) |
 | 💻 **Focus** | Back-end Development |
 | 🌍 **Languages** | Spanish (Native) · English (B2) |
-| 🚀 **Mindset** | Constantly learning new technologies |
-| 🛠️ **Philosophy** | Clean, efficient and maintainable code |
-| 📅 **Academic period** | 2024 – 2026 |
+
 
 ---
 
