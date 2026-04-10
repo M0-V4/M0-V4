@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Miguel Ángel Guardia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Back-end+Developer;DAM+Student+(2024-2026);Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Back-end+Developer;DAM+Student+(2024-2026)" alt="Typing SVG" />
 
 ![Spanish](https://img.shields.io/badge/Spanish-Native-informational?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2-informational?style=flat-square)
