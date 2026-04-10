@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-| | |
+
 |---|---|
 | 🎓 **Education** | Cross-Platform App Development (DAM) |
 | 💻 **Focus** | Back-end Development |
