@@ -15,9 +15,13 @@
 ---
 
 ## 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=dark&font=baloo_2&ext=heatmap)
-![Codewars](https://www.codewars.com/users/N0_v4/badges/large)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
+<p align="center">
+  <img src="https://www.codewars.com/users/N0_v4/badges/large" alt="Codewars Badge" />
+</p>
 ---
 ## 📫 Contact
 
