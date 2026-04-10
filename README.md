@@ -61,9 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guardia-fernandez-492862254/)
 
 </div>
-
----
-
-<div align="center">
-  <sub>Open to collaborations and feedback · Always building something new</sub>
-</div>
