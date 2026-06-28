@@ -26,7 +26,6 @@
 **Languages**<br>
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B)
 
 **Databases & Tools**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
