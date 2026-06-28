@@ -16,16 +16,17 @@
 
 - 🎓 **Education:** Cross-Platform App Development (DAM) — Graduate 2026
 - 🚀 **Next Step:** Computer Engineering — Incoming Student
-- 💻 **Focus:** Back-end Development
+- 💻 **Focus:** Software Development
 - 🌍 **Languages:** Spanish (Native) · English (B2)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**<br>
+**Languages & Frameworks**<br>
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
 
 **Databases & Tools**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
