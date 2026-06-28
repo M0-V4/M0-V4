@@ -1,13 +1,10 @@
 <div align="center">
-
 # 👋 Hi, I'm Miguel Ángel Guardia
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Back-end+Developer;DAM+Student+(2024-2026)" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Back-end+Developer;DAM+Graduate+%282024%E2%80%932026%29;Future+Computer+Engineer" alt="Typing SVG" />
 ![Spanish](https://img.shields.io/badge/Spanish-Native-informational?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2-informational?style=flat-square)
-![DAM](https://img.shields.io/badge/DAM-2024--2026-blueviolet?style=flat-square)
-
+![DAM](https://img.shields.io/badge/DAM-Graduate%202026-blueviolet?style=flat-square)
+![CS](https://img.shields.io/badge/Computer%20Engineering-Incoming%202026-success?style=flat-square)
 </div>
 
 ---
@@ -16,10 +13,10 @@
 
 | | |
 |---|---|
-| 🎓 **Education** | Cross-Platform App Development (DAM) |
+| 🎓 **Education** | Cross-Platform App Development (DAM) — Graduate 2026 |
+| 🚀 **Next Step** | Computer Engineering — Incoming Student |
 | 💻 **Focus** | Back-end Development |
 | 🌍 **Languages** | Spanish (Native) · English (B2) |
-
 
 ---
 
@@ -45,7 +42,6 @@
 <div align="center">
 
 [![LeetCode](https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=dark&font=baloo_2&ext=heatmap)](https://leetcode.com/MiguelAngelGuardia)
-
 [![Codewars](https://www.codewars.com/users/N0_v4/badges/large)](https://www.codewars.com/users/N0_v4)
 
 </div>
