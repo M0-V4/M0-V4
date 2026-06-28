@@ -1,57 +1,47 @@
 <div align="center">
+
 # 👋 Hi, I'm Miguel Ángel Guardia
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Back-end+Developer;DAM+Graduate+%282024%E2%80%932026%29;Future+Computer+Engineer" alt="Typing SVG" />
-![Spanish](https://img.shields.io/badge/Spanish-Native-informational?style=flat-square)
-![English](https://img.shields.io/badge/English-B2-informational?style=flat-square)
-![DAM](https://img.shields.io/badge/DAM-Graduate%202026-blueviolet?style=flat-square)
-![CS](https://img.shields.io/badge/Computer%20Engineering-Incoming%202026-success?style=flat-square)
+
+**Software Developer | Aspiring Computer Engineer**
+
+*Focused on building solid, scalable backend solutions and continuously expanding my computer science fundamentals.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-guardia-fernandez-492862254/)
+
 </div>
 
 ---
 
-## 👤 About Me
+### 👤 About Me
 
-| | |
-|---|---|
-| 🎓 **Education** | Cross-Platform App Development (DAM) — Graduate 2026 |
-| 🚀 **Next Step** | Computer Engineering — Incoming Student |
-| 💻 **Focus** | Back-end Development |
-| 🌍 **Languages** | Spanish (Native) · English (B2) |
+- 🎓 **Education:** Cross-Platform App Development (DAM) — Graduate 2026
+- 🚀 **Next Step:** Computer Engineering — Incoming Student
+- 💻 **Focus:** Back-end Development
+- 🌍 **Languages:** Spanish (Native) · English (B2)
 
 ---
 
-## 🖥️ Tech Stack
+### 🛠️ Tech Stack
 
-**Languages**
+**Languages**<br>
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Databases & Tools**<br>
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 
 ---
 
-## 📊 Coding Challenges
+### 📊 Coding Challenges
 
 <div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=dark&font=baloo_2&ext=heatmap)](https://leetcode.com/MiguelAngelGuardia)
+[![LeetCode](https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=transparent&font=baloo_2&ext=heatmap)](https://leetcode.com/MiguelAngelGuardia)
+<br>
 [![Codewars](https://www.codewars.com/users/N0_v4/badges/large)](https://www.codewars.com/users/N0_v4)
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-guardia-fernandez-492862254/)
 
 </div>
