@@ -4,8 +4,6 @@
 
 **Software Developer | Aspiring Computer Engineer**
 
-*Focused on building solid, scalable backend solutions and continuously expanding my computer science fundamentals.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-guardia-fernandez-492862254/)
 
 </div>
