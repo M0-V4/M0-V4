@@ -39,6 +39,5 @@
 <div align="center">
 
 [![LeetCode](https://leetcard.jacoblin.cool/MiguelAngelGuardia?theme=transparent\&font=baloo_2\&ext=heatmap)](https://leetcode.com/MiguelAngelGuardia) <br>
-[![Codewars](https://www.codewars.com/users/N0_v4/badges/large)](https://www.codewars.com/users/N0_v4)
 
 </div>
